@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Crypto Airdrop Eligibility Checker";
+export const description = "Crypto Airdrop Eligibility Checker helps users verify if their wallets are eligible for active and upcoming airdrops. Instantly check requirements, snapshot dates, and claim windows across multiple blockchains. Checks wallet eligibility for ongoing and upcoming airdrops. Displays snapshot dates, claim periods, and token details. Supports multiple blockchains (Ethereum, Solana, Polygon, BNB Chain, etc.). Alerts users when new airdrops become available or eligibility changes. Provides historical airdrop participation data for analysis.";
 export const url = process.env.NEXT_PUBLIC_URL;
